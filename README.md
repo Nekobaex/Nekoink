@@ -1,2 +1,2 @@
 ## Nekoink
-This is an Search website
+This is an search website
